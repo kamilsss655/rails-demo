@@ -1,1 +1,2 @@
-##Ruby on Rails 5 - Demo app
+##Ruby on Rails 4 - Demo app
+Simple Ruby on Rails application.
